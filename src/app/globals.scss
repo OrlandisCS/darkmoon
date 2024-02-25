@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	.text-balance {
+		text-wrap: balance;
+	}
+}
+
+html {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+	background: #000;
+	scrollbar-color: rgba(0, 0, 0, 0.8) #fff;
+	scrollbar-width: thin;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}

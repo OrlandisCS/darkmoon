@@ -1,0 +1,22 @@
+{
+	"name": "Darkmoon",
+	"altName": "Shisha Lounge",
+	"logo": "/logo.png",
+	"currency": "€",
+	"themes": {
+		"default": {
+			"active": true,
+			"headerBG": "#000",
+			"headerColor": "#7D66FF",
+			"headerButtonsBG": "#7D66FF",
+			"headerButtonsColor": "#FFF",
+			"mainButtonBG": "#7D66FF",
+			"mainButtonColor": "#FFF"
+		},
+		"dark": {
+			"active": false,
+			"headerBG": "#7D66FF",
+			"headerColor": "#FFF"
+		}
+	}
+}
